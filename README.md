@@ -7,7 +7,8 @@ Authors: Alaa Hewela (@Alaa253)
 
 There is quite a lot of molecular data that we can gain from different cells in our bodies. The genetic information codified in DNA (genome) is then transcribed into RNA (transcriptome) that is then translated into proteins (proteome) which then gets broken down into metabolites (metabolome). Understanding this process is crucial to identify where errors like mutations or transcription errors that can lead to cancer and that can be used for biomarker discovery. All of those types of data can be gained from clinical samples of healthy and diseased individuals. The old concept of “one-gene/one-protein/one-function” is now being corrected as the high-throughput sequencing technologies have revolutionized the fields of genomics and transcriptomics by shifting the old approach of focusing on single genes or mutations to focusing on the study of the entire genome.(1)  The discovery of biomarkers is important for early detection, prognosis, and personalized treatment.
 
-![][image1]
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/0ee92025-31f4-49f0-b67c-c5ccaf3e531a">
+
 
 ## The data
 
