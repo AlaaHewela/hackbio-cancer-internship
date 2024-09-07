@@ -32,7 +32,7 @@ In this study, Peng et al analyzed and compared RNA-seq data from TCGA database 
 
 From this study, the researchers unraveled organ/tissue-specific and cell cycle-related gene signatures that can cause cancer. Their findings add to existing knowledge by providing insights into the transcriptional processes of genes that can trigger tumor generation and metastasis. It also provides information on gene signatures that can be used for cancer diagnosis and treatment.
 
-## Our Presentation: https://www.linkedin.com/posts/alaa-hewela\_cancerresearch-bioinformatics-rnaseq-activity-7238220214310469632-Or55?utm\_source=share\&utm\_medium=member\_desktop
+## Our Presentation: [https://www.linkedin.com/posts/alaa-hewela\_cancerresearch-bioinformatics-rnaseq-activity-7238220214310469632-Or55?utm\_source=share\&utm\_medium=member\_desktop](https://www.linkedin.com/posts/alaa-hewela_cancerresearch-bioinformatics-rnaseq-activity-7238220214310469632-Or55?utm_source=share&utm_medium=member_desktop)
 
 ## References
 
